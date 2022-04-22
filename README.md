@@ -30,3 +30,9 @@ The following images are used in the site:
 
 - Repository can be found at:
   [GitHub](https://github.com/susangrace909/urban-octo-telegram.git)
+
+## Things I changed in the CSS:
+
+- I combined the styles for all of the main blue placards: same style for Search Engine Optimization, Online Reputation Management, Social Media Marketing, and images.
+
+- I combined the styles for all of the sidebar content: same style for Lead Generation, Brand Awareness, Cost Management, and images.
