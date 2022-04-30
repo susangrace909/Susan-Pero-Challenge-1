@@ -51,4 +51,4 @@ The following images are used in the site:
 
 ## Screenshot:
 
-![Screenshot of website](/Deveop/assets/images/Screenshot.png)
+![Screenshot of website](Deveop/assets/images/Screenshot.png)
