@@ -29,7 +29,7 @@ The following images are used in the site:
 ## Repository Link
 
 - Repository can be found at:
-  [GitHub](https://github.com/susangrace909/urban-octo-telegram.git)
+  [GitHub](https://github.com/susangrace909/Susan-Pero-Challenge-1.git)
 
 ## Things I changed in the CSS:
 
@@ -48,3 +48,7 @@ The following images are used in the site:
 - Put heading attributes in sequential order, not numbered.
 
 - Changed title to Horiseon Social Services.
+
+## Screenshot:
+
+![Screenshot of website](/Deveop/assets/images/Screenshot.png)
